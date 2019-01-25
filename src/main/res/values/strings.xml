@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Abi2Api</string>
+    <string name="submit_button">Submit</string>
+    <string name="description">A painless way to retrieve data from blockchain</string>
+    <string name="output">Output</string>
+    <string name="name">Abi2Api</string>
+    <string name="helper">Put your contract address below, or check our example.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

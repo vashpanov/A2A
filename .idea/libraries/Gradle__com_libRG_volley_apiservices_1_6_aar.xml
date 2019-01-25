@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.libRG.volley:apiservices:1.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/apiservices-1.6.aar/e8344c8dcd2b28a47591f39f43dc1bd1/jars/libs/org.apache.http.legacy.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/apiservices-1.6.aar/e8344c8dcd2b28a47591f39f43dc1bd1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/apiservices-1.6.aar/e8344c8dcd2b28a47591f39f43dc1bd1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.libRG.volley/apiservices/1.6/e5c6a941786b8e0c7545d2781faa7bf1598b136c/apiservices-1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
