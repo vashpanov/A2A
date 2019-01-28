@@ -18,8 +18,8 @@ class PageAdapter internal constructor(fm: FragmentManager, private val numOfTab
 
     override fun getItem(position: Int): Fragment? {
         when (position) {
-            0 -> return ContractFragment()
-            1 -> return TradeFragment()
+            0 -> return TradeFragment()
+            1 -> return ContractFragment()
             2 -> return GeneralFragment()
             else -> return null
         }

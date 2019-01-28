@@ -25,6 +25,12 @@ import android.R.attr.colorAccent
 import android.R.attr.colorPrimaryDark
 import android.R.attr.colorPrimary
 import android.R.attr.colorAccent
+import android.widget.FrameLayout
+import android.R.attr.button
+import android.widget.TextView
+import android.widget.EditText
+
+
 
 
 

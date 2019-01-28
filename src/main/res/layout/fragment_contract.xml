@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/bla"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -8,9 +9,10 @@
 
     <TextView
         android:id="@+id/textView5"
-        android:layout_width="420dp"
-        android:layout_height="738dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_gravity="center_vertical|center_horizontal"
-        android:text="Contract"
-        android:textSize="30sp" />
+        android:text="In progress"
+        android:textColor="@android:color/black"
+        android:textSize="18sp" />
 </FrameLayout>
