@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bla"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".TradeFragment">
+    android:background="#f4f8ff"
+    android:layout_gravity="center_vertical"
+    tools:context=".ContractFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
+        android:id="@+id/textView6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="center_vertical|center_horizontal"
-        android:text="Trade"
-        android:textSize="30sp" />
+
+        android:layout_gravity="left"
+        android:enabled="true"
+        android:focusable="true"
+        android:text="In progress"
+        android:textColor="@android:color/black"
+        android:textIsSelectable="true"
+        android:textSize="14sp" />
 
 </FrameLayout>
